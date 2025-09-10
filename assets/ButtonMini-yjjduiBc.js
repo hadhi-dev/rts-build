@@ -1,0 +1,2 @@
+import{j as e}from"./index-B9FQTHBN.js";const o=({onClick:n,color:t,name:i,type:x="button",icon:s,className:r})=>e.jsx("div",{children:e.jsxs("button",{onClick:n,type:x,className:`text-xs text-${t}-500 bg-${t}-50 font-bold py-1 rounded focus:outline-none flex items-center justify-center px-2 ${r}
+          hover:bg-${t}-700 hover:text-white transition-colors duration-300`,children:[s&&e.jsx("i",{className:`material-icons mr-2 text-sm text-${t}-500 md:text-md p-0`,children:s}),e.jsx("span",{className:"text-sm md:text-md",children:i})]})});export{o as B};
